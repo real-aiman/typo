@@ -1,0 +1,5 @@
+# node modules
+node_modules/
+
+# sources maps (if they are in a specific directory or have a specific extension)
+*.map
